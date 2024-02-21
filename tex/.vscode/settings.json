@@ -1,0 +1,4 @@
+{
+    "latex-workshop.latex.rootFile": "%DOC%",
+    "latex-workshop.latex.outDir": "%DIR%/build"
+}
