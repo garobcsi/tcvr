@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "tcvr")(type "KiCad")(uri "${KIPRJMOD}/tcvr.pretty")(options "")(descr ""))
+)
