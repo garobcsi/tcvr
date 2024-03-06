@@ -1,4 +1,4 @@
-22651750510070626
+22653460815988260
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93044,12 +93044,19 @@ coax
 2
 2
 tcvr
+hole
+
+
+0
+0
+0
+tcvr
 jack
 
 
 0
-4
-1
+5
+5
 tcvr
 key
 
