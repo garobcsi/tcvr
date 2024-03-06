@@ -2635,7 +2635,7 @@
     (property "Value" "2..6m" (at 264.16 60.325 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Inductor_THT:L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC" (at 261.62 58.42 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (at 261.62 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 261.62 58.42 0)

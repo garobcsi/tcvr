@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/robi/Desktop/tcvr/tcvr.kicad_sch")
-    (date "2024. márc. 6., szerda, 13:06:19 CET")
+    (date "2024. márc. 6., szerda, 13:20:19 CET")
     (tool "Eeschema 7.0.10")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -22,7 +22,7 @@
   (components
     (comp (ref "AE1")
       (value "2..6m")
-      (footprint "Inductor_THT:L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC")
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
       (libsource (lib "Device") (part "Antenna") (description "Antenna"))
       (property (name "Sheetname") (value ""))
       (property (name "Sheetfile") (value "tcvr.kicad_sch"))
