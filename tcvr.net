@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/home/robi/Desktop/tcvr/tcvr.kicad_sch")
-    (date "2024. márc. 6., szerda, 13:35:17 CET")
+    (date "2024. márc. 6., szerda, 15:10:39 CET")
     (tool "Eeschema 7.0.10")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
